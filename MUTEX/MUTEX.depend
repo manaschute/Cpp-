@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733492908 source:z:\c++\mutex\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+

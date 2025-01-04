@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733486468 source:z:\c++\multi threading using detach\main.cpp
+	<iostream>
+	<thread>
+
